@@ -5,6 +5,7 @@
   :dependencies [[org.clojure/clojure "1.10.0"]
                  [duct/core "0.7.0"]
                  [duct/module.ataraxy "0.3.0"]
+                 [hiccup "1.0.5"]
                  [duct/module.logging "0.4.0"]
                  [duct/module.sql "0.5.0"]
                  [duct/module.web "0.7.0"]
